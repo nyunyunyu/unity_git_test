@@ -11,6 +11,8 @@ public class rotation : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         myTransform = transform;
+
+        Debug.Log("Hello GitHub");
 	}
 	
 	// Update is called once per frame
